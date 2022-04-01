@@ -1,8 +1,12 @@
 public class HelloWorld {
 
-// changes to initial commit
+                        // (1st commit)
 
-    // changes to second commit
+// changes to initial commit (2nd commit)
+
+    // changes to second commit (3rd commit)
+
+    // changes to third commit (4th commit)
 
 
 }
